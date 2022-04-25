@@ -1,0 +1,86 @@
+body{   max-width: 1000px;
+  	margin: 20px;
+	background-color: lightgrey;
+
+}
+
+.roles{	position: relative;
+	left: 60px
+}
+
+h1 {  	color: black;
+
+	background-color: white;
+
+	border: 2px solid black;
+	border-radius:20px;
+	padding:20px;		
+
+
+  }
+
+
+h2 {	color:black;
+
+	font-size:20px;
+
+	font-family: "Trirong", serif;
+
+	background-color: lightblue;
+
+	border: 2px solid black;
+	border-radius:20px;
+
+	padding:10px;
+  }
+
+.headings {	color: black;
+
+	   	font-size:18px;
+
+	   	font-family:arial;
+
+		text-align: center;
+
+		font-family: "Trirong", serif;
+		
+		font-weight:normal;
+
+		background-color: lightblue;
+
+		border: 2px solid black;
+
+		border-radius:20px;
+ }
+
+p,a {	color: black;
+
+	font-size:15px;
+
+	font-family:arial;
+
+	margin-left: 80px;
+	
+	text-align: justify;
+}
+
+
+.date {		font-size:18px;
+		color:black;
+}
+
+.title {	font-size:18px;
+
+		color:black;
+
+		font-weight:normal;
+		
+		font-family: "Trirong", serif;
+}
+
+img {	border-radius:50%;
+ }
+
+.biotext {
+	text-align: center;
+}
